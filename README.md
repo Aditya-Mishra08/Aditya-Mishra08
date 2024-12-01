@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditya-Mishra08
+- 👋 Hi, I’m Aditya Narayan Mishra
 - 👀 I’m interested in Photography
 - 🌱 I’m currently learning Python
 - 📫 How to reach me soumyamishra@gmail.com
